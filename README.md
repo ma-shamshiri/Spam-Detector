@@ -36,12 +36,12 @@
 
 <h2 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
-<p>1) spam_detector.py</p>
+<p><b>1) spam_detector.py</b></p>
 <p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
-<p>2) train.py</p>
+<p><b>2) train.py</b></p>
 <p>Then, the train.py file must be executed, which leads to the production of the model.txt file. 
 At the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
-<p>3) test.py</p>
+<p><b>3) test.py</b></p>
 <p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
 
