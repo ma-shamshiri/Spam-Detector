@@ -3,8 +3,7 @@
 <h2>Project Assignment 2: Spam Detector</h2>
 
 
-<body><link rel="stylesheet" type="text/css" href="chrome-extension://ckkdlimhmcjmikdlpkmbgfkaikojcbjk/themes/github.css" id="_theme"><div id="_html" class="markdown-body"><h3 id="applied-artiﬁcial-intelligence-winter-2020"><a class="anchor" name="applied-artiﬁcial-intelligence-winter-2020" href="#applied-artiﬁcial-intelligence-winter-2020"><span class="octicon octicon-link"></span></a>Applied Artiﬁcial Intelligence (Winter 2020)</h3>
-<h4 id="project-assignment-2---spam-detector"><a class="anchor" name="project-assignment-2---spam-detector" href="#project-assignment-2---spam-detector"><span class="octicon octicon-link"></span></a>Project Assignment #2 - Spam Detector</h4>
+
 <hr>
 <hr>
 <h3 id="overview"><a class="anchor" name="overview" href="#overview"><span class="octicon octicon-link"></span></a>Overview</h3>
