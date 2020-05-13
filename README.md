@@ -65,8 +65,13 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 
 <h2>Refrences</h2>
 <ul>
-  <li>Comp 6721 Lecture Slide #4, 'Artificial Intelligence: Naive Bayes Classification', Winter 2020.</li>
+  <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
+      <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf.</p>
+      <a href="https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</a>
+      <a href="https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf">https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</a>
+  </li>
   <li>Comp 6721 Lab Exercise #4, 'Naive Bayes Classification', Winter 2020.</li>
+  
 </ul>
 
 	Comp 6721 Lecture Slide #4, 'Artificial Intelligence: Naive Bayes Classification', Winter 2020.
