@@ -42,14 +42,7 @@ At the beginning of this file, the spam_detector has been imported so that the f
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
 <hr>
 <hr>
-<h3 id="programmer-information"><a class="anchor" name="programmer-information" href="#programmer-information"><span class="octicon octicon-link"></span></a>Programmer Information</h3>
-<blockquote>
-<p>First Name: Ghazaleh --- Last Name: Boroomand --- Student ID: 40110896</p>
-</blockquote>
-<blockquote>
-<p>First Name: Mohammad Amin --- Last Name: Shamshiri --- Student ID: 40120919</p>
-</blockquote>
-</div></body>
+
 
 
 
