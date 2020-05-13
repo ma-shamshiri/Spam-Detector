@@ -12,11 +12,11 @@
 </p>
 
 <h2>Project Files Description</h2>
-<ol>
+<ul>
   <li><b>spam_detector.py</b> - Includes all functions required for classification operations.</li>
   <li><b>train.py</b> - Uses the functions defined in the spam_detector.py file and generates the model.txt file after execution.</li>
   <li><b>test.py</b> - Uses the functions defined in the spam_detector.py file and, after execution, generates the result.txt as well as evaluation.txt files.</li>
-</ol>
+</ul>
 
 
 <h2 id="explenation-of-submitted-files"><a class="anchor" name="explenation-of-submitted-files" href="#explenation-of-submitted-files"><span class="octicon octicon-link"></span></a>Project Files Description</h2>
