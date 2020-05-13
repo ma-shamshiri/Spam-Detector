@@ -7,6 +7,11 @@
 <h2 id="overview"><a class="anchor" name="overview" href="#overview"><span class="octicon octicon-link"></span></a>Overview</h2>
 <p>I have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
 
+<p align="center"> 
+<img src="gif/spam detector.gif" alt="Animated gif pacman game" style="max-width:50%;">
+</p>
+
+
 <h2 id="explenation-of-submitted-files"><a class="anchor" name="explenation-of-submitted-files" href="#explenation-of-submitted-files"><span class="octicon octicon-link"></span></a>Project Files Description</h2>
 <p>This program includes 3 executable files, 3 text files as well as 2 directories as follows:</p>
 <p>Executable Files:</p>
