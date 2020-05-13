@@ -4,13 +4,10 @@
 
 
 
-<hr>
-<hr>
-<h3 id="overview"><a class="anchor" name="overview" href="#overview"><span class="octicon octicon-link"></span></a>Overview</h3>
-<p>We have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
-<hr>
-<hr>
-<h3 id="explenation-of-submitted-files"><a class="anchor" name="explenation-of-submitted-files" href="#explenation-of-submitted-files"><span class="octicon octicon-link"></span></a>Explenation of Submitted Files</h3>
+<h2 id="overview"><a class="anchor" name="overview" href="#overview"><span class="octicon octicon-link"></span></a>Overview</h2>
+<p>I have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
+
+<h2 id="explenation-of-submitted-files"><a class="anchor" name="explenation-of-submitted-files" href="#explenation-of-submitted-files"><span class="octicon octicon-link"></span></a>Project Files Description</h2>
 <p>This program includes 3 executable files, 3 text files as well as 2 directories as follows:</p>
 <p>Executable Files:</p>
 <p>  1) spam_detector.py: Includes all functions required for classification operations.</p>
@@ -39,8 +36,6 @@ At the beginning of this file, the spam_detector has been imported so that the f
 <p>3) test.py</p>
 <p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
-<hr>
-<hr>
 
 
 
