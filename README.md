@@ -8,7 +8,7 @@
 <p>I have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
 
 <p align="center"> 
-<img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px" width="737px">
+<img src="gif/spam detector.gif" alt="Animated gif pacman game" style="max-width:100% height="382px" width="737px">
 </p>
 
 
