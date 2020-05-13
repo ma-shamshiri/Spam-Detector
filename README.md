@@ -66,32 +66,21 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 <h2>Refrences</h2>
 <ul>
   <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
-      <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf.</p>
-      <a href="https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</a>
-      <a href="https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf">https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</a>
+      <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</p>
   </li>
-  <li>Comp 6721 Lab Exercise #4, 'Naive Bayes Classification', Winter 2020.</li>
-  
+  <li><p>Wikipedia.org, 'Naive Bayes Classifier'. [Online].</p>
+      <p>Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier</p>
+  </li>
+  <li><p>Youtube.com, 'Naive Bayes for Spam Detection'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=8aZNAmWKGfs</p>
+  </li>
+  <li><p>Youtube.com, 'Text Classification Using Naive Bayes'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=EGKeC2S44Rs</p>
+  </li>
+  <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
+      <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
+  </li>
+  <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
+      <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
+  </li>
 </ul>
-
-	Comp 6721 Lecture Slide #4, 'Artificial Intelligence: Naive Bayes Classification', Winter 2020.
-
-	Comp 6721 Lab Exercise #4, 'Naive Bayes Classification', Winter 2020.
-
-	Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].
-Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf.
-
-	Wikipedia.org, 'Naive Bayes Classifier'. [Online].
-Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier.
-
-	Youtube.com, 'Naive Bayes for Spam Detection'. [Online].
-Available: https://www.youtube.com/watch?v=8aZNAmWKGfs.
-
-	Youtube.com, 'Text Classification Using Naive Bayes'. [Online].
-Available: https://www.youtube.com/watch?v=EGKeC2S44Rs.
-
-	Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].
-Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html.
-
-	Pythonforengineers.com, 'Build a Spam Filter'. [Online].
-Available: https://www.pythonforengineers.com/build-a-spam-filter/.
