@@ -38,6 +38,12 @@
 Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/1.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/1.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
 
+<p>representing some n features (independent variables), it assigns to this instance probabilities
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/2.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/2.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
+
+<p>The problem with the above formulation is that if the number of features n is large or if a feature can take on a large number of values, then basing such a model on probability tables is infeasible. We therefore reformulate the model to make it more tractable. Using Bayes' theorem, the conditional probability can be decomposed as
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/4.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/4.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
+
 <h2 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
 <p><b>1) spam_detector.py</b></p>
