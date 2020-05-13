@@ -38,13 +38,13 @@
 
 <p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
-<img src="https://github.com/wruochao19/Hello-world/raw/master/1.png" alt="Formula 1" style="max-width:100%;"></p>
+<img src="image/1.png" alt="Formula 1" style="max-width:100%;"></p>
 
 <p>representing some n features (independent variables), it assigns to this instance probabilities
-<img src="https://github.com/wruochao19/Hello-world/raw/master/2.png" alt="Formula 2" style="max-width:100%;"></p>
+<img src="image/2.png" alt="Formula 2" style="max-width:100%;"></p>
 
 <p>The problem with the above formulation is that if the number of features n is large or if a feature can take on a large number of values, then basing such a model on probability tables is infeasible. We therefore reformulate the model to make it more tractable. Using Bayes' theorem, the conditional probability can be decomposed as
-<img src="https://github.com/wruochao19/Hello-world/raw/master/4.png" alt="Formula 3" style="max-width:100%;"></p>
+<img src="image/3.png" alt="Formula 3" style="max-width:100%;"></p>
 
 <h2>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
