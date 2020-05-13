@@ -4,7 +4,7 @@
 
 
 
-<h2 id="overview"><a class="anchor" name="overview" href="#overview"><span class="octicon octicon-link"></span></a>Overview</h2>
+<h2>Overview</h2>
 <p>I have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
 
 <p align="center"> 
@@ -34,17 +34,19 @@
   <li><b>test directory</b> - Includes all emails for the testing phase of the program.</li>
 </ul>
 
+<h2>Naive Bayes</h2>
+
 <p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
-<img src="https://github.com/wruochao19/Hello-world/raw/master/1.png" alt="Aaron Swartz" style="max-width:100%;"></p>
+<img src="https://github.com/wruochao19/Hello-world/raw/master/1.png" alt="Formula 1" style="max-width:100%;"></p>
 
 <p>representing some n features (independent variables), it assigns to this instance probabilities
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/2.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/2.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
+<img src="https://github.com/wruochao19/Hello-world/raw/master/2.png" alt="Formula 2" style="max-width:100%;"></p>
 
 <p>The problem with the above formulation is that if the number of features n is large or if a feature can take on a large number of values, then basing such a model on probability tables is infeasible. We therefore reformulate the model to make it more tractable. Using Bayes' theorem, the conditional probability can be decomposed as
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/4.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/4.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
+<img src="https://github.com/wruochao19/Hello-world/raw/master/4.png" alt="Formula 3" style="max-width:100%;"></p>
 
-<h2 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h2>
+<h2>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
 <p><b>1) spam_detector.py</b></p>
 <p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
