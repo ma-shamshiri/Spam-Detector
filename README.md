@@ -34,6 +34,10 @@
   <li><b>test directory</b> - Includes all emails for the testing phase of the program.</li>
 </ul>
 
+<p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/wruochao19/Hello-world/raw/master/1.png"><img src="https://github.com/wruochao19/Hello-world/raw/master/1.png" alt="Aaron Swartz" style="max-width:100%;"></a></p>
+
 <h2 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
 <p><b>1) spam_detector.py</b></p>
