@@ -57,12 +57,6 @@ At the beginning of this file, the spam_detector has been imported so that the f
 <p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
 
-<h2>Credits</h2>
-<ul>
-  <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
-  <li>Author: Mohammad Amin Shamshiri</li>
-</ul>
-
 <h2>Refrences</h2>
 <ul>
   <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
@@ -83,4 +77,10 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
   <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
       <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
   </li>
+</ul>
+
+<h2>Credits</h2>
+<ul>
+  <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
+  <li>Author: Mohammad Amin Shamshiri</li>
 </ul>
