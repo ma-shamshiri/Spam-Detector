@@ -34,7 +34,7 @@
   <li><b>test directory</b> - Includes all emails for the testing phase of the program.</li>
 </ul>
 
-<h3 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h3>
+<h2 id="execution-instruction"><a class="anchor" name="execution-instruction" href="#execution-instruction"><span class="octicon octicon-link"></span></a>Execution Instruction</h2>
 <p>The order of execution of program files is as follows:</p>
 <p>1) spam_detector.py</p>
 <p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
