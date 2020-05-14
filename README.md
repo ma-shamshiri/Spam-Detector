@@ -5,7 +5,7 @@
 
 
 <h2>Overview</h2>
-<p>I have implemented a spam detector program in Python which classifies given emails as spam or ham based on applying Naive Bayes' theorem.</p>
+<p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
 
 <p align="center"> 
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
