@@ -2,9 +2,6 @@
 
 <h2>Project Assignment 2: Spam Detector</h2>
 
-
-
-<h2>Overview</h2>
 <p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
 
 <p align="center"> 
