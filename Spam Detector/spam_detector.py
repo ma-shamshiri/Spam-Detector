@@ -1,4 +1,4 @@
-# Importing the libraries
+# Importing the libraries.
 import os
 import re
 import numpy as np
@@ -25,8 +25,6 @@ def number_of_allEmails():
 
 
 "*** Returns the number of spam emails (train files) ***"
-
-
 def number_of_spamEmails():
     counter = 0
     for directories, subdirectories, files in os.walk(train_path):
@@ -37,8 +35,6 @@ def number_of_spamEmails():
     return counter
 
 "*** Returns the number of ham emails (train files) ***"
-
-
 def number_of_hamEmails():
     counter = 0
     for directories, subdirectories, files in os.walk(train_path):
@@ -60,8 +56,6 @@ def text_parser(text):
 
 
 "*** Returns the words of train data: (all_trainWords, spam_trainWords, ham_trainWords) ***"
-
-
 def trainWord_generator():
     all_words = []
     spam_words = []
