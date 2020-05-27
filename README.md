@@ -31,7 +31,7 @@
   <li><b>test directory</b> - Includes all emails for the testing phase of the program.</li>
 </ul>
 
-<h2>Naive Bayes</h2>
+<h2> :book: Naive Bayes</h2>
 
 <p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
 Abstractly, naive Bayes is a conditional probability model: given a problem instance to be classified, represented by a vector
