@@ -76,7 +76,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
   </li>
 </ul>
 
-<h2>Credits</h2>
+<h2> :scroll: Credits</h2>
 <ul>
   <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
   <li>Author: Mohammad Amin Shamshiri</li>
