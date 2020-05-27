@@ -1,6 +1,6 @@
 <h1>Artificial Intelligence (Winter 2020)</h1>
 
-<h2>Project Assignment 2: Spam Detector</h2>
+<h2> :memo: Project Assignment 2: Spam Detector</h2>
 
 <p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
 
