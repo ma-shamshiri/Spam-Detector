@@ -8,7 +8,7 @@
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
 
-<h2>Project Files Description</h2>
+<h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 3 executable files, 3 text files as well as 2 directories as follows:</p>
 <h4>Executable Files:</h4>
