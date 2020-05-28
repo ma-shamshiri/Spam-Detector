@@ -44,7 +44,7 @@ Abstractly, naive Bayes is a conditional probability model: given a problem inst
 <img src="image/3.png" alt="Formula 3" style="max-width:100%;"></p>
 
 <h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of program files is as follows:</p>
+<p>The order of execution of the program files is as follows:</p>
 <p><b>1) spam_detector.py</b></p>
 <p>First, the spam_detector.py file must be executed to define all the functions and variables required for classification operations.</p>
 <p><b>2) train.py</b></p>
