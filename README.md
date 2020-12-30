@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="gif/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
+  <img src="image/Email Logo.png" alt="Email Logo.png" width="80px" height="80px">
 </p>
 <h1 align="center"> Spam Detector </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
