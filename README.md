@@ -1,12 +1,12 @@
-<h1>Artificial Intelligence (Winter 2020)</h1>
-
-<h2> :memo: Project Assignment 2: Spam Detector</h2>
-
-<p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
+<h1 align="center"> Pacman Agent </h1>
+<h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
+<h5 align="center"> Project Assignment 2 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
 
 <p align="center"> 
 <img src="gif/spam detector.gif" alt="Animated gif pacman game" height="382px">
 </p>
+
+<p>I have developed a spam detector program in Python which classifies given emails as spam or ham using the Naive Bayes approach.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
