@@ -1,4 +1,4 @@
-<h1 align="center"> Pacman Agent </h1>
+<h1 align="center"> Spam Detector </h1>
 <h3 align="center"> COMP 6721 - Artificial Intelligence </h3>
 <h5 align="center"> Project Assignment 2 - <a href="https://www.concordia.ca/">Concordia University</a> (Winter 2020) </h5>
 
