@@ -31,6 +31,8 @@
   <li><b>test directory</b> - Includes all emails for the testing phase of the program.</li>
 </ul>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :book: Naive Bayes</h2>
 
 <p>In machine learning, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
@@ -43,6 +45,8 @@ Abstractly, naive Bayes is a conditional probability model: given a problem inst
 <p>The problem with the above formulation is that if the number of features n is large or if a feature can take on a large number of values, then basing such a model on probability tables is infeasible. We therefore reformulate the model to make it more tractable. Using Bayes' theorem, the conditional probability can be decomposed as
 <img src="image/3.png" alt="Formula 3" style="max-width:100%;"></p>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
 <p><b>1) spam_detector.py</b></p>
@@ -53,6 +57,8 @@ At the beginning of this file, the spam_detector has been imported so that the f
 <p><b>3) test.py</b></p>
 <p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :books: Refrences</h2>
 <ul>
@@ -75,6 +81,8 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
       <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
   </li>
 </ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- CREDITS -->
 <h2 id="credits"> :scroll: Credits</h2>
