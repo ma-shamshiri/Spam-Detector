@@ -63,7 +63,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :books: Refrences</h2>
+<h2> :books: References</h2>
 <ul>
   <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
       <p>Available: https://courses.cs.washington.edu/courses/cse312/18sp/lectures/naive-bayes/naivebayesnotes.pdf</p>
